@@ -1,0 +1,83 @@
+.buttonContainer{
+    width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.eachSocialMediaButton{
+    width: 30%;
+    float: left;
+}
+
+.twitterBg{
+    background: #1AB2E8;
+    display: block;
+    padding: 14px;
+    overflow: hidden;
+    color: #fff;
+    width: 52%;
+    border-radius: 5px;
+}
+
+.twitterIcon{
+    background: url(../images/social-twitter-icon.png) no-repeat transparent;
+    display: block;
+    height: 26px;
+    width: 28px;
+    float: left;
+}
+
+.buttonText{
+    display: block;
+    width: 150px;
+    padding: 5px 0 0 8px;
+    float: left;
+}
+
+.facebookBg{
+    background: #3F51B5;
+    display: block;
+    padding: 14px;
+    overflow: hidden;
+    color: #fff;
+    width: 52%;
+    border-radius: 5px;
+}
+
+.facebookIcon{
+    background: url(../images/facebook.png) no-repeat transparent;
+    display: block;
+    height: 26px;
+    width: 28px;
+    float: left;
+}
+
+.googleBg{
+    background: #FF0000;
+    display: block;
+    padding: 14px;
+    overflow: hidden;
+    color: #fff;
+    width: 52%;
+    border-radius: 5px;
+}
+
+.googleIcon {
+    background: url(../images/g-plus.png) no-repeat transparent;
+    display: block;
+    height: 26px;
+    width: 28px;
+    float: left;
+}
+
+.createNewAccountDiv{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.createNewAccountDiv a {
+    margin-right: 245px;
+    margin-top: 10px;
+    display: block;
+}
